@@ -9,7 +9,6 @@ function bugKill (bug, flySwatter){
 bugKill();
 
 // doing work on test
-do someWork (work) {
-console.log("work done!")
-};
+function someWork (work) {
+console.log("work done!")};
 somework();
