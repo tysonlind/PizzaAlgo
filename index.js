@@ -12,3 +12,5 @@ bugKill();
 function someWork (work) {
 console.log("work done!")};
 somework();
+
+//testing asynchronisity of github
